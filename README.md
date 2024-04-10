@@ -1,0 +1,1 @@
+# testrail-reporter-for-playwright
