@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niche-tester/playwright-testrail-reporter.git"
+    "url": "git+https://github.com/tsailawrence/testrail-reporter-for-playwright.git"
   },
   "bugs": {
-    "url": "https://github.com/niche-tester/playwright-testrail-reporter.git"
+    "url": "https://github.com/tsailawrence/testrail-reporter-for-playwright.git"
   },
-  "homepage": "https://github.com/niche-tester/playwright-testrail-reporter#readme",
+  "homepage": "https://github.com/tsailawrence/testrail-reporter-for-playwright#readme",
   "keywords": [
     "playwright",
     "testrail",
