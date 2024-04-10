@@ -1,6 +1,6 @@
 {
   "name": "testrail-reporter-for-playwright",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "Report Playwright test results to TestRail",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -27,10 +27,12 @@
     "playwright",
     "testrail",
     "reporter",
-    "reporter-testrail",
-    "playwright-testrail"
+    "testrail-reporter",
+    "playwright-reporter",
+    "playwright-testrail",
+    "testrail-playwright"
   ],
-  "author": "Denisha Surjoodeen",
+  "author": "Lawrence Tsai",
   "license": "MIT",
   "dependencies": {
     "@dlenroc/testrail": "^1.9.1",
