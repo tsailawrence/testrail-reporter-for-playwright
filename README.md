@@ -1,6 +1,6 @@
 # testrail-reporter-for-playwright
 
-**testrail-reporter-for-playwright** is an extension built upon the excellent work of the contributors to [playwright-testrail-reporter](https://github.com/niche-tester/playwright-testrail-reporter)It enhances certain areas, such as test result reporting, providing a more robust integration with TestRail. This custom reporter for Playwright Test seamlessly integrates with TestRail by automatically creating TestRail Runs and adding test results through matching test case IDs.
+**testrail-reporter-for-playwright** is an extension built upon the excellent work of the contributors to [playwright-testrail-reporter](https://github.com/niche-tester/playwright-testrail-reporter). It enhances certain areas, such as test result reporting, providing a more robust integration with TestRail. This custom reporter for Playwright Test seamlessly integrates with TestRail by automatically creating TestRail Runs and adding test results through matching test case IDs.
 
 ## Installation
 
